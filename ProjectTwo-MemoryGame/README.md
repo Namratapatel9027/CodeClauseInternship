@@ -5,7 +5,7 @@
     Welcome to the Memory Game! Test your memory skills and have fun matching pairs of cards in this exciting and challenging game.
     <br/>
     <br/>
-    <a href="(https://github.com/Namratapatel9027/CodeClauseInternship/new/main/ProjectTwo-MemoryGame)"><strong>Explore the Project »</strong></a>
+    <a href="https://github.com/Namratapatel9027/CodeClauseInternship/new/main/ProjectTwo-MemoryGame"><strong>Explore the Project »</strong></a>
     <br/>
     <br/>
   </p>
