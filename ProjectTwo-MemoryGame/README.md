@@ -28,7 +28,6 @@
 ![Screen Shot](MG1.png)
 ![Screen Shot](MG2.png)
 ![Screen Shot](MG3.png)
-![Screen Shot](MG4.png)
 
 Embark on a thrilling adventure with the Memory Game! Test your memory prowess as you match pairs of cards in this immersive and addictive game experience.
 
