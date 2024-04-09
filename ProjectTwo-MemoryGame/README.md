@@ -45,9 +45,10 @@ Frontend: HTML, CSS, JavaScript
 
 This is an example of how you can set up the project locally.
 
-### Installation
+### Contributing
+Contributions are welcome! If you find any bugs or have suggestions for new features, please open an issue or submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
 
-1. Clone the Repository: Clone this repository to your local machine using the following command:
+###License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-```sh
-git clone (https://github.com/Namratapatel9027/CodeClauseInternship/new/main/ProjectTwo-MemoryGame.git
+Thank you for choosing the Memory Game! Let's see how sharp your memory really is! 🧠🃏
