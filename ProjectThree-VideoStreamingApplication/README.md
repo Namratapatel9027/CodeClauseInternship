@@ -24,7 +24,6 @@
 
 <!-- Add screenshots of your web application -->
 ![Screen Shot](YC1.png)
-![Screen Shot](YC2.png)
 
 Here's why:
 
